@@ -4,6 +4,6 @@ class sum
 	int a=10;
 	int b=10;
 	int sum= a+b;
-	System.out.println(sum);
+	System.out.println("this is the sum of a and b " + sum);
 }
 }
